@@ -21,7 +21,7 @@ All dashboards were built for production use, supporting decision-making across 
 ## 📊 Dashboards
 
 ### 1️⃣ Customer Portfolio Dashboard
-![Customer Portfolio](images/Customer%20Portfolio.png)
+![Customer Portfolio](dashboards/images/Customer%20Portfolio.png)
 
 **Purpose:**  
 Monitor customer portfolio size, goal achievement, and distribution across locations and segments.
@@ -39,7 +39,7 @@ Supports portfolio management, workload balance, and strategic growth planning.
 ---
 
 ### 2️⃣ Goal Management Dashboard
-![Goal Management](images/Goal%20Management%20Dashboard.png)
+![Goal Management](dashboards/images/Goal%20Management%20Dashboard.png)
 
 **Purpose:**  
 Centralized monitoring of commercial and financial goals across products and portfolios.
@@ -56,7 +56,7 @@ Improves transparency on goal performance and enables faster corrective actions.
 ---
 
 ### 3️⃣ Revenue Indicators Management
-![Revenue Indicators](images/Revenue%20Indicators%20Management.png)
+![Revenue Indicators](dashboards/images/Revenue%20Indicators%20Management.png)
 
 **Purpose:**  
 Track profitability and margin indicators over time.
@@ -74,7 +74,7 @@ Supports financial performance analysis and profitability optimization.
 ---
 
 ### 4️⃣ Weekly Sales Production Report
-![Weekly Sales Production](images/Weekly%20Sales%20Production%20Report.png)
+![Weekly Sales Production](dashboards/images/Weekly%20Sales%20Production%20Report.png)
 
 **Purpose:**  
 Provide an operational view of weekly sales performance.
