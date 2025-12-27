@@ -1,115 +1,113 @@
 # Power BI Portfolio – Lucas Tiezerin
 
-This repository showcases Power BI dashboards developed in a real business environment at **Evolua Credit Cooperative**.  
-All dashboards were built for production use, supporting decision-making across multiple business areas.
+This repository presents Power BI dashboards developed in a **real production environment** at **Evolua Credit Cooperative**.  
+All visuals shown here were used by business teams and leadership to support operational and strategic decisions.
 
-> **Important note:**  
-> All data, names, colors, KPIs, and themes were **masked and anonymized** to preserve confidentiality.  
-> The structure, logic, and analytical approach reflect real-world implementations.
-
----
-
-## 🛠️ Tools & Stack
-- **Power BI** (Data Modeling, DAX, Power Query)
-- **SQL**
-- **Python** (automation and data processing)
-- **Denodo** – data virtualization and extraction
-- **Databricks** – data engineering and analytics pipelines
+> All data, KPIs, names, colors, and themes were **masked and anonymized**.  
+> The dashboards preserve the original structure, logic, and analytical depth.
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
-### 1️⃣ Customer Portfolio Dashboard
-![Customer Portfolio](dashboards/images/Customer%20Portfolio.png)
-
-**Purpose:**  
-Monitor customer portfolio size, goal achievement, and distribution across locations and segments.
-
-**Key Features:**
-- Actual vs target portfolio tracking
-- Goal achievement percentage and GAP analysis
-- Time-series evolution of customer base
-- Segmentation by location, salesperson, and customer type
-- Automated refresh pipeline
-
-**Business Value:**  
-Supports portfolio management, workload balance, and strategic growth planning.
-
----
-
-### 2️⃣ Goal Management Dashboard
+### 1) Goal Management Dashboard
 ![Goal Management](dashboards/images/Goal%20Management%20Dashboard.png)
 
-**Purpose:**  
-Centralized monitoring of commercial and financial goals across products and portfolios.
+**Objective:**  
+Centralized monitoring of commercial and financial targets across products, portfolios, and locations.
 
-**Key Features:**
-- Target vs actual performance indicators
-- GAP analysis for revenue, volume, and performance indexes
-- Product-level drill-down
-- Dynamic filters for location, portfolio, segment, and salesperson
+**Highlights:**
+- Target vs actual performance with clear GAP indicators  
+- Multi-product and multi-metric view in a single interface  
+- Daily refresh (D-1 data)  
+- Interactive filters: branch (agency), portfolio, salesperson  
 
-**Business Value:**  
-Improves transparency on goal performance and enables faster corrective actions.
+**Usage:**  
+Used by managers to track performance, identify deviations early, and support corrective actions.
 
 ---
 
-### 3️⃣ Revenue Indicators Management
+### 2) Revenue Indicators Management
 ![Revenue Indicators](dashboards/images/Revenue%20Indicators%20Management.png)
 
-**Purpose:**  
+**Objective:**  
 Track profitability and margin indicators over time.
 
-**Key Features:**
-- Gross margin, net margin, and business profitability
-- Actual vs target margin comparison
-- MoM variation analysis
-- Revenue breakdown (core products, services, new customers)
-- Trend analysis by year and month
+**Highlights:**
+- Gross margin, net margin, and business profitability  
+- Actual vs target comparison  
+- MoM variation and historical trends  
+- Daily refresh (D-1 data)  
+- Fully interactive at branch, portfolio, and salesperson level  
 
-**Business Value:**  
-Supports financial performance analysis and profitability optimization.
+**Usage:**  
+Supports financial analysis and profitability monitoring at multiple organizational levels.
 
 ---
 
-### 4️⃣ Weekly Sales Production Report
+### 3) Weighted Average Interest Rate (v2)
+![Weighted Average Interest Rate](dashboards/images/Weighted%20Average%20Interest%20Rate%20v2.png)
+
+**Objective:**  
+Monitor weighted average interest rates and their evolution across portfolios and locations.
+
+**Highlights:**
+- Consolidated and segmented interest rate analysis  
+- Comparison across time periods and organizational levels  
+- Daily refresh (D-1 data)  
+- Interactive filters for branch, portfolio, and salesperson  
+
+**Usage:**  
+Used to support pricing analysis and portfolio performance evaluation.
+
+---
+
+### 4) Customer Portfolio Dashboard
+![Customer Portfolio](dashboards/images/Customer%20Portfolio.png)
+
+**Objective:**  
+Monitor customer portfolio size, distribution, and goal achievement.
+
+**Highlights:**
+- Actual vs target portfolio size  
+- GAP and achievement percentage  
+- Time-series evolution of customer base  
+- Daily refresh (D-1 data)  
+- Interactive slicing by branch, portfolio, and salesperson  
+
+**Usage:**  
+Supports portfolio management, workload balancing, and growth tracking.
+
+---
+
+### 5) Weekly Sales Production Report
 ![Weekly Sales Production](dashboards/images/Weekly%20Sales%20Production%20Report.png)
 
-**Purpose:**  
-Provide an operational view of weekly sales performance.
+**Objective:**  
+Provide a concise operational snapshot of weekly sales performance.
 
-**Key Features:**
-- Quantity sold, total revenue, average ticket, and discounts
-- Week-to-date and month-to-date metrics
-- Expense tracking
-- Product mix analysis by location
-- Performance comparison across units
+**Highlights:**
+- Quantity sold, revenue, average ticket, and discounts  
+- Product mix by location  
+- Weekly and month-to-date indicators  
 
-**Business Value:**  
-Enables short-term performance monitoring and operational decision-making.
+**Distribution:**  
+This report is **automatically sent every Monday** to directors and managers via **Power BI Service report subscriptions**.
 
 ---
 
-## 🔒 Data & Governance
-- Data sources integrated via **Denodo** and **Databricks**
-- Automated and standardized pipelines
-- Focus on data quality, consistency, and reproducibility
-- Dashboards designed following best practices in data storytelling
+## Tools
+- **SQL** (VQL and Spark SQL)
+- **Denodo, Databricks and SharePoint** (ETL)
+- **Power BI** (Data Modeling, DAX, Power Query)
 
 ---
 
-## 👤 About Me
+## About Me
 **Lucas Eduardo Duarte Tiezerin**  
 Data Analyst | Analytics Engineer | BI Developer  
 
-- 3+ years of experience in analytics, BI, and data automation  
-- Strong focus on scalable solutions and business impact  
-- Fluent in English, experienced with global-ready projects  
+3+ years of experience working with analytics, BI, and data automation in production environments, focusing on scalable solutions and business impact.
 
-📎 [LinkedIn](https://www.linkedin.com/in/lucas-eduardo-duarte-tiezerin-9660171ab)  
-💻 [GitHub](https://github.com/l-tiezerin)
-
----
-
-If you’d like to discuss these projects or explore collaboration opportunities, feel free to reach out.
+LinkedIn: https://www.linkedin.com/in/lucas-eduardo-duarte-tiezerin-9660171ab  
+GitHub: https://github.com/l-tiezerin
