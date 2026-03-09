@@ -8,9 +8,9 @@ All visuals shown here were used by business teams and leadership to support ope
 
 ---
 
-## Dashboards
+# Dashboards
 
-### 1) Goal Management Dashboard
+## 1) Goal Management Dashboard
 ![Goal Management](dashboards/images/Goal%20Management%20Dashboard.png)
 
 **Objective:**  
@@ -27,7 +27,7 @@ Used by managers to track performance, identify deviations early, and support co
 
 ---
 
-### 2) Revenue Indicators Management
+## 2) Revenue Indicators Management
 ![Revenue Indicators](dashboards/images/Revenue%20Indicators%20Management.png)
 
 **Objective:**  
@@ -45,7 +45,7 @@ Supports financial analysis and profitability monitoring at multiple organizatio
 
 ---
 
-### 3) Weighted Average Interest Rate (v2)
+## 3) Weighted Average Interest Rate (v2)
 ![Weighted Average Interest Rate](dashboards/images/Weighted%20Average%20Interest%20Rate%20v2.png)
 
 **Objective:**  
@@ -62,7 +62,7 @@ Used to support pricing analysis and portfolio performance evaluation.
 
 ---
 
-### 4) Customer Portfolio Dashboard
+## 4) Customer Portfolio Dashboard
 ![Customer Portfolio](dashboards/images/Customer%20Portfolio.png)
 
 **Objective:**  
@@ -80,7 +80,7 @@ Supports portfolio management, workload balancing, and growth tracking.
 
 ---
 
-### 5) Weekly Sales Production Report
+## 5) Weekly Sales Production Report
 ![Weekly Sales Production](dashboards/images/Weekly%20Sales%20Production%20Report.png)
 
 **Objective:**  
@@ -96,18 +96,40 @@ This report is **automatically sent every Monday** to directors and managers via
 
 ---
 
-## Tools
+## 6) Investments Goal Management
+![Investments Goal Management](dashboards/images/Investments%20Goal%20Management.jpg)
+
+**Objective:**  
+Monitor investment product performance against commercial targets across agencies and portfolios.
+
+**Highlights:**
+- Investment goal vs delivered amount with real-time GAP calculation  
+- Achievement percentage and performance flags for quick diagnosis  
+- Monthly and yearly accumulation indicators (MTD and YTD)  
+- Historical comparison across months to identify seasonal patterns  
+- Daily refresh (D-1 data)  
+- Interactive filters for agency, portfolio, salesperson, segment, and product  
+
+**Usage:**  
+Used by commercial leadership to monitor investment fundraising performance, identify underperforming branches, and support tactical actions to reach targets.
+
+---
+
+# Tools
 - **SQL** (VQL and Spark SQL)
 - **Denodo, Databricks and SharePoint** (ETL)
 - **Power BI** (Data Modeling, DAX, Power Query)
 
 ---
 
-## About Me
+# About Me
 **Lucas Eduardo Duarte Tiezerin**  
 Data Analyst | Analytics Engineer | BI Developer  
 
 3+ years of experience working with analytics, BI, and data automation in production environments, focusing on scalable solutions and business impact.
 
-LinkedIn: https://www.linkedin.com/in/lucas-eduardo-duarte-tiezerin-9660171ab  
-GitHub: https://github.com/l-tiezerin
+LinkedIn:  
+https://www.linkedin.com/in/lucas-eduardo-duarte-tiezerin-9660171ab  
+
+GitHub:  
+https://github.com/l-tiezerin
