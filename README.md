@@ -126,7 +126,7 @@ Used by commercial leadership to monitor investment fundraising performance, ide
 **Lucas Eduardo Duarte Tiezerin**  
 Data Analyst | Analytics Engineer | BI Developer  
 
-3+ years of experience working with analytics, BI, and data automation in production environments, focusing on scalable solutions and business impact.
+4+ years of experience working with analytics, BI, and data automation in production environments, focusing on scalable solutions and business impact.
 
 LinkedIn:  
 https://www.linkedin.com/in/lucas-eduardo-duarte-tiezerin-9660171ab  
